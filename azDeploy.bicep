@@ -5,7 +5,7 @@ param location string = 'northeurope'
 @maxLength(15)
 param adminUsername string = 'mlvcsuperuser'
 
-//ip address: 137.135.246.79
+//ip address: 52.138.248.225
 param sshPublicKey string = 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCyZMvUc24GfJUUlIgZrJ6MnRqFPkq/HBD2rDuufSi1yZ51RRglc3asHso5etZHbi9K0n+AXJ30ggOYgwKXz8xOhTxgFWFCdTWbLcepS1JL9QdanydE8J+zkntnADjWyMT0doXhNXEXIwclDGOz+s+4qp560sbT5PhANzkmU7uQvC1qY99P6kLMsD6TvuUb70hRmhXCgoPacU4adurBOt/zVnI1wlIxOdM0uZYb87Q/x4r6MMZUmoSaul70pFGHNb51w4dHz2FCzAJ8Dv/p+73Wz/wJ3mmsz5N7huNVJv9YkdCv9BFc3hMSThLYockoYwP8oVCh6ZwLEYUmy1e28ECvNaxnol/iBwyv2FwL6Yuyf9o9X1IIzhvRgCn70HSaTdp/MsCuQPczNnV5L085a9vlGBmyOUaDeuQmMl1TXFZMPToQF+amCjG7yzIvAu+yP/cUqC3nrELEjtziBOodlCezTLVOeRtaxQVkaYiP8D6H3LhXqnJ0ETqf9dorR6059hc= vetle@velte'
 param sshPrivateKey string = '-----BEGIN OPENSSH PRIVATE KEY-----
 b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAlwAAAAdzc2gtcn
